@@ -9,4 +9,7 @@ but tap and use `wxwern/formulae/yabai` for installation instead.
 
 ### Current Patches
 
-- macOS Golden Gate 27.0 fixes 
+- macOS Golden Gate 27.0 fixes
+    - SIP-enabled scripting-addition fixes
+    - SIP-disabled space-switching fixes
+    - Match macOS Golden Gate 27.0 unified rounded corners 
